@@ -1,0 +1,108 @@
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.MainWindow.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.pdb
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.exe
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.pdb
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Settings.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.LoginWindow.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.RegisterWindow.resources
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.pdb
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll.config
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.xml
+c:\users\space22\documents\visual studio 2017\Projects\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.pdb
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.pdb
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.LoginWindow.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.MainWindow.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.RegisterWindow.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Settings.resources
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.exe
+C:\Users\Space22\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.LoginWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.MainWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.RegisterWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Settings.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Projects\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.pdb
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.LoginWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.MainWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.RegisterWindow.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Settings.resources
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.exe
+C:\Users\aleksey.febenchukov\Documents\Visual Studio 2017\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.pdb
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.pdb
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.pdb
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll.config
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.LoginWindow.resources
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.MainWindow.resources
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.RegisterWindow.resources
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Settings.resources
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.exe
+C:\Users\Space22\Desktop\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.pdb
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.LoginWindow.resources
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.MainWindow.resources
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Properties.Resources.resources
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.RegisterWindow.resources
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.Settings.resources
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.csproj.GenerateResource.Cache
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.exe
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\obj\Debug\TCPChatClient.pdb
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe.config
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.exe
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\TCPChatClient.pdb
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.pdb
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\CoreServer.dll.config
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\Space22\Documents\Chat\TCPChatClient\TCPChatClient\bin\Debug\System.Data.SQLite.dll.config
